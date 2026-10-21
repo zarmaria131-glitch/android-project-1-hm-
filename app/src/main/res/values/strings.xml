@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">My Application homework 1</string>
+    <string name="title_register">הרשמת תלמיד</string>
+
+    <!-- רכיבי קלט (Hints) -->
+    <string name="hint_first_name">שם פרטי</string>
+    <string name="hint_last_name">שם משפחה</string>
+    <string name="hint_email">אימייל (לדוגמה: name@gmail.com)</string>
+
+    <!-- בחירת כיתה -->
+    <string name="label_grade">בחר כיתה:</string>
+    <string name="radio_grade_10">י\'</string>
+    <string name="radio_grade_11">יא\'</string>
+    <string name="radio_grade_12">יב\'</string>
+
+    <!-- בחירת מגמה -->
+    <string name="prompt_major">בחר מגמה</string>
+    <string name="major_cs">מדעי המחשב</string>
+    <string name="major_physics">פיזיקה</string>
+    <string name="major_biology">ביולוגיה</string>
+    <string name="major_chemistry">כימיה</string>
+    <string name="major_art">אמנות</string>
+
+    <!-- תיבות סימון (CheckBoxes) -->
+    <string name="cb_notifications">קבלת התראות</string>
+    <string name="cb_terms">אני מאשר/ת את תנאי השימוש (חובה)</string>
+
+    <!-- כפתורים -->
+    <string name="btn_register">התחבר / הרשם</string>
+
+    <!-- הודעות שגיאה לבדיקות תקינות -->
+    <string name="error_field_required">שדה חובה</string>
+    <string name="error_invalid_email">כתובת אימייל שגויה</string>
+    <string name="error_select_grade">יש לבחור כיתה</string>
+    <string name="error_select_major">יש לבחור מגמה</string>
+    <string name="error_terms">חובה לאשר את תנאי השימוש</string>
+
+</resources>
